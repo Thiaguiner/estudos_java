@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class estrutura_repeticao {
+public class estruturaDeRepeticao {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
